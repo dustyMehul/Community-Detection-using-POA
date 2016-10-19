@@ -1,0 +1,14 @@
+function leaderPop = doParliamentryElec(A,leaderPop)
+    tmpvar = leaderPop;
+    
+    [TPL,Nodes] = size(leaderPop);
+    
+    Pf =0.3;
+    for i=1:TPL
+        for j=1:Nodes
+            p=rand;
+            
+        end
+    end
+
+end
